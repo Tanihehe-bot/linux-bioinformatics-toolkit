@@ -1,0 +1,9 @@
+renamed 'examples/sample_data/raw_fastq/sample1_R2.fastq' -> 'examples/sample_output/organized/sample1_R2.fastq'
+renamed 'examples/sample_data/raw_fastq/sample_02_R1.fastq' -> 'examples/sample_output/organized/sample_02_R1.fastq'
+FLAGGED: lab_notes.txt (does not match naming pattern, left in place)
+renamed 'examples/sample_data/raw_fastq/sample_04_R1.fastq.gz' -> 'examples/sample_output/organized/sample_04_R1.fastq.gz'
+renamed 'examples/sample_data/raw_fastq/samplethree_R1.fastq' -> 'examples/sample_output/organized/samplethree_R1.fastq'
+renamed 'examples/sample_data/raw_fastq/sample_02_R2.fastq' -> 'examples/sample_output/organized/sample_02_R2.fastq'
+renamed 'examples/sample_data/raw_fastq/sample1_R1.fastq' -> 'examples/sample_output/organized/sample1_R1.fastq'
+
+Summary: 6 file(s) organized, 1 file(s) flagged.
